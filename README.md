@@ -1,7 +1,7 @@
 # AngularDoubleApp
 FIRST NAME : Nathaniel  
 LAST NAME : Brengle  
-GITHUB URL : https://github.com/nbrengle/angular-double-app
+GITHUB URL : https://github.com/nbrengle/angular-double-app  
 TODAY'S DATE : 24 October 2017
 CSC 436  
 HOMEWORK : #6  
