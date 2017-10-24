@@ -1,4 +1,19 @@
 # AngularDoubleApp
+FIRST NAME : Nathaniel  
+LAST NAME : Brengle  
+GITHUB URL : https://github.com/nbrengle/angular-double-app
+TODAY'S DATE : 24 October 2017
+CSC 436  
+HOMEWORK : #6  
+COMPLEXITY: Medium   
+APPROX HOURS INVESTED IN ASSIGNMENT : 6  
+EXPECTED GRADE : B+  
+PARTICIPATION SOURCE CODE :   
+
+APPLICATION INTENT :  
+Wound up using a service to persist data across the two views.
+I'm not sure that was the best idea or the easiest, but it's what made sense.
+Routing really through me for a loop, it did not behave consisently with my intuition and cost me a lot of time.    
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 

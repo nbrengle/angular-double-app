@@ -1,0 +1,6 @@
+<h2> Search History </h2>
+<ol>
+    <li *ngFor="let search of searchHistory">
+         {{ search.text }} | {{ search.timestamp }}
+    </li>
+</ol>

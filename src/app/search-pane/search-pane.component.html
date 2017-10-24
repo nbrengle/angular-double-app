@@ -1,0 +1,18 @@
+<h2> Input </h2>
+<div class="field">
+    <input [(ngModel)]="searchText" (keyup)="search(searchText)"/>
+</div>
+<div>
+    <h2> Wikipedia Search </h2>
+    <ul>
+        <li *ngFor="let item of fromWikipedia">
+            {{ item }}
+        </li>
+    </ul>
+</div>
+<div>
+    <h2> Giphy Search </h2>
+    <span *ngFor="let item of fromGiphy">
+        <img src='{{ item.images.fixed_height_downsampled.url }}'>
+    </span>
+</div>
